@@ -1,2 +1,2 @@
-# thingsIshouldlearn
-Things I should be learning and knowing
+# thingsIshouldgo
+Places I should be going
